@@ -1,3 +1,4 @@
+import capitalize from "../hexlet-js/capitalize";
 if (capitalize('hello') !== 'Hello') {
     throw new Error('Функция работает неверно!');
   }
